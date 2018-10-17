@@ -1,0 +1,87 @@
+[
+  {
+    "company": "Bungalow",
+    "job": "Frontend Engineering Lead",
+    "city": "Kitchener"
+  },
+  {
+    "company": "Bungalow",
+    "job": "Full Stack Engineer",
+    "city": "Kitchener"
+  },
+  {
+    "company": "Earnin",
+    "job": "Android Developer",
+    "city": "Vancouver"
+  },
+  {
+    "company": "Earnin",
+    "job": "Senior iOS Developer",
+    "city": "Vancouver"
+  },
+  {
+    "company": "Earnin",
+    "job": "Senior Software Engineer (Full Stack)",
+    "city": "Vancouver"
+  },
+  {
+    "company": "Fluxx Labs Inc",
+    "job": "Senior DevOps Engineer",
+    "city": "Toronto"
+  },
+  {
+    "company": "Fluxx Labs Inc",
+    "job": "Software Developer",
+    "city": "Toronto"
+  },
+  {
+    "company": "Hims",
+    "job": "Data Analyst",
+    "city": "Montréal"
+  },
+  {
+    "company": "Hims",
+    "job": "Database Application Developer",
+    "city": "Kitchener"
+  },
+  {
+    "company": "Neptune Financial",
+    "job": "Senior Software Engineer",
+    "city": "Toronto"
+  },
+  {
+    "company": "Neptune Financial",
+    "job": "Software Engineer",
+    "city": "Toronto"
+  },
+  {
+    "company": "Plays.tv",
+    "job": "Frontend Engineer",
+    "city": "Vancouver"
+  },
+  {
+    "company": "Plays.tv",
+    "job": "Senior Frontend Engineer",
+    "city": "Vancouver"
+  },
+  {
+    "company": "Tally",
+    "job": "Senior Platform Engineer",
+    "city": "Vancouver"
+  },
+  {
+    "company": "Urbandoor",
+    "job": "Senior Backend Engineer",
+    "city": "Vancouver"
+  },
+  {
+    "company": "Urbandoor",
+    "job": "Senior Frontend Engineer",
+    "city": "Vancouver"
+  },
+  {
+    "company": "Zenreach",
+    "job": "Senior Software Engineer, Platform",
+    "city": "Kitchener"
+  }
+]
